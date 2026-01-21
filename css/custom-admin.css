@@ -1,0 +1,52 @@
+.skt-maintenance-options-wrap{background-color: #fff; padding: 25px; box-sizing: border-box; margin-top: 20px; margin-bottom: 40px; font-size: 15px; max-width: 900px;}
+.wrap .skt-maintenance-title{font-size: 30px; font-weight: 600;}
+.skt-maintenance-options-title{margin: 5px 0 20px;}
+.skt-maintenance-options-table{border-collapse: collapse; width: 100%;}
+.skt-maintenance-options-table tr td{border: solid 1px #ccc; padding: 15px; vertical-align: middle;}
+.skt-maintenance-options-table tr td:first-child{width: 250px;}
+.skt-maintenance-options-table select,
+.skt-maintenance-options-table input[type=text],
+.skt-maintenance-options-table input[type=number],
+.skt-maintenance-options-table input[type="file"]{font-size: 15px; width: 350px; padding: 5px 12px; box-shadow: 0 0 0 transparent; border-radius: 4px; border: 1px solid #8c8f94; background-color: #fff; color: #2c3338;}
+.skt-maintenance-options-table input[type="file"]{padding: 12px;}
+.skt-maintenance-options-table textarea{padding: 10px; font-size: 15px; height: 200px; width: 100%;}
+.skt-maintenance-options-table select[multiple]{height: 184px; padding: 7px 12px; width: 100%; max-width: 100%;}
+.skt-maintenance-options-wrap .button-primary{padding: 15px 30px; line-height: normal; font-size: 15px; border-radius: 0; font-weight: 600;}
+.skt-maintenance-options-wrap input[type=submit]{background-color: #2271b1; color: #fff; cursor: pointer; padding: 16px 30px; line-height: normal; font-size: 15px; border-radius: 0; border: none; font-weight: 600; transition: all 0.2s;}
+.skt-maintenance-options-wrap input[type=submit]:hover{background-color: #135e96; color: #fff;}
+
+.skt-maintenance-image{box-sizing: border-box; max-width: 300px; position: relative; border: solid 1px #8c8f94; border-radius: 4px; margin-bottom: 20px;}
+.skt-maintenance-image img{display: block; width: 100%;}
+.skt-maintenance-image a{background-color: #f10000; color: #fff; position: absolute; top: 0; right: 0; padding: 6px 15px; font-weight: 600; text-decoration: none; transition: all 0.2s; font-size: 14px;}
+.skt-maintenance-image a:hover{background-color: #e00000; color: #fff;}
+
+.header_logo_upload,
+.header_back_upload{background-color: #2271b1; color: #fff; padding: 8px 16px; text-decoration: none; font-weight: 600; transition: all 0.2s; display: inline-block; vertical-align: top; margin-top: 15px;}
+.header_logo_upload:hover,
+.header_back_upload:hover{background-color: #135e96; color: #fff;}
+
+.header_logo_remove,
+.header_back_remove{background-color: #f10000; color: #fff; border: none; padding: 8px 16px; font-weight: 600; cursor: pointer; transition: all 0.2s; display: inline-block; vertical-align: top; margin-top: 15px;}
+.header_logo_remove:hover,
+.header_back_remove:hover{background-color: #dd0101; color: #fff;}
+
+.skt-themes-about{line-height: 1.7; margin-bottom: 35px;}
+.skt-themes-row{margin-left: -10px; margin-right: -10px;}
+.skt-themes-row:after{content: ""; clear: both; display: block;}
+.skt-themes-row .skt-themes-column{box-sizing: border-box; float: left; padding-left: 10px; padding-right: 10px; margin-bottom: 30px; width: 33.3333%;}
+.skt-themes-row .skt-themes-inner{border: solid 10px #f0f0f1;}
+.skt-themes-row .skt-themes-image{background-color: #000000; position: relative;}
+.skt-themes-row .skt-themes-image img{display: block; width: 100%; transition: all 0.2s;}
+.skt-themes-row .skt-themes-image a{opacity: 0; visibility: hidden; transition: all 0.2s; position: absolute; background-color: #2271b1; color: #fff; padding: 8px 20px; top: 0; left: 50%; transform: translateX(-50%); font-weight: 600; text-decoration: none;}
+.skt-themes-row .skt-themes-image a:hover{background-color: #135e96;}
+.skt-themes-row .skt-themes-image a.skt-themes-demo{top: 122px;}
+.skt-themes-row .skt-themes-image a.skt-themes-buy{top: 70px;}
+.skt-themes-row .skt-themes-content{background-color: #f0f0f1; text-align: center; padding: 22px 15px;}
+.skt-themes-row .skt-themes-content h3{margin: 0;}
+.skt-themes-row .skt-themes-content a{text-decoration: none;}
+
+.skt-themes-row .skt-themes-inner:hover .skt-themes-image img{opacity: 0.3;}
+.skt-themes-row .skt-themes-inner:hover .skt-themes-image a{opacity: 1; visibility: visible;}
+
+.skt-view-all{background-color: #2271b1; color: #fff; display: table; margin: 10px auto 20px; padding: 20px 40px; font-size: 18px; font-weight: 600; text-decoration: none;}
+.skt-view-all:hover{background-color: #135e96; color: #fff;}

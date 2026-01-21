@@ -1,0 +1,274 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: SKT Maintenance\n"
+"POT-Creation-Date: 2021-05-05 15:01+0530\n"
+"PO-Revision-Date: 2021-05-05 15:01+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.13\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: maintenance.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: admin/maintenance-menu.php:62
+msgid "SKT Maintenance"
+msgstr ""
+
+#: admin/maintenance-menu.php:68
+msgid "General Options"
+msgstr ""
+
+#: admin/maintenance-menu.php:71
+msgid "Maintenance Mode"
+msgstr ""
+
+#: admin/maintenance-menu.php:74
+msgid "Off"
+msgstr ""
+
+#: admin/maintenance-menu.php:75
+msgid "On"
+msgstr ""
+
+#: admin/maintenance-menu.php:80 admin/maintenance-menu.php:81
+msgid "Page Title"
+msgstr ""
+
+#: admin/maintenance-menu.php:84
+msgid "Site Title Color"
+msgstr ""
+
+#: admin/maintenance-menu.php:88
+msgid "Site Title Font Size"
+msgstr ""
+
+#: admin/maintenance-menu.php:101 admin/maintenance-menu.php:102
+msgid "Headline"
+msgstr ""
+
+#: admin/maintenance-menu.php:105
+msgid "Headline Color"
+msgstr ""
+
+#: admin/maintenance-menu.php:109
+msgid "Headline Font Size"
+msgstr ""
+
+#: admin/maintenance-menu.php:123
+msgid "Description"
+msgstr ""
+
+#: admin/maintenance-menu.php:147
+msgid "Description Color"
+msgstr ""
+
+#: admin/maintenance-menu.php:151
+msgid "Description Font Size"
+msgstr ""
+
+#: admin/maintenance-menu.php:165 admin/maintenance-menu.php:166
+msgid "Footer Text"
+msgstr ""
+
+#: admin/maintenance-menu.php:169
+msgid "Footer Text Color"
+msgstr ""
+
+#: admin/maintenance-menu.php:173
+msgid "Footer Text Font Size"
+msgstr ""
+
+#: admin/maintenance-menu.php:187
+msgid "Font Family"
+msgstr ""
+
+#: admin/maintenance-menu.php:197
+msgid "Background Color"
+msgstr ""
+
+#: admin/maintenance-menu.php:201
+msgid "Background Overlay Color"
+msgstr ""
+
+#: admin/maintenance-menu.php:205
+msgid "Background Overlay Opacity"
+msgstr ""
+
+#: admin/maintenance-menu.php:218
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/maintenance-menu.php:360
+msgid "Set Logo Width"
+msgstr ""
+
+#: admin/maintenance-menu.php:361
+msgid "Logo Width"
+msgstr ""
+
+#: admin/maintenance-menu.php:364
+msgid "Set Logo Height"
+msgstr ""
+
+#: admin/maintenance-menu.php:365
+msgid "Logo Height"
+msgstr ""
+
+#: admin/maintenance-menu.php:368
+msgid "Logo"
+msgstr ""
+
+#: admin/maintenance-menu.php:373 admin/maintenance-menu.php:385
+msgid "Remove"
+msgstr ""
+
+#: admin/maintenance-menu.php:380
+msgid "Background Image"
+msgstr ""
+
+#: admin/maintenance-menu.php:394 admin/maintenance-menu.php:437
+msgid "Save Changes"
+msgstr ""
+
+#: admin/maintenance-menu.php:400
+msgid "Exclude Posts/Pages From Maintenance Mode"
+msgstr ""
+
+#: admin/maintenance-menu.php:403
+msgid "Exclude Pages"
+msgstr ""
+
+#: admin/maintenance-menu.php:406 admin/maintenance-menu.php:422
+msgid "None"
+msgstr ""
+
+#: admin/maintenance-menu.php:419
+msgid "Exclude Posts"
+msgstr ""
+
+#: admin/maintenance-menu.php:442
+msgid "Ready To Use Themes"
+msgstr ""
+
+#: admin/maintenance-menu.php:443
+msgid ""
+"At SKT Themes we handpick our professional WordPress themes and create it as "
+"per client demands and current market trends. So be it responsive or be it "
+"google fonts or theme options to make the site easy to use, our themes have "
+"all of the features."
+msgstr ""
+
+#: admin/maintenance-menu.php:449 admin/maintenance-menu.php:459
+#: admin/maintenance-menu.php:469 admin/maintenance-menu.php:479
+#: admin/maintenance-menu.php:489 admin/maintenance-menu.php:499
+#: admin/maintenance-menu.php:509 admin/maintenance-menu.php:519
+#: admin/maintenance-menu.php:529 admin/maintenance-menu.php:539
+#: admin/maintenance-menu.php:549 admin/maintenance-menu.php:559
+#: admin/maintenance-menu.php:569 admin/maintenance-menu.php:579
+#: admin/maintenance-menu.php:589
+msgid "View Demo"
+msgstr ""
+
+#: admin/maintenance-menu.php:450 admin/maintenance-menu.php:460
+#: admin/maintenance-menu.php:470 admin/maintenance-menu.php:480
+#: admin/maintenance-menu.php:490 admin/maintenance-menu.php:500
+#: admin/maintenance-menu.php:510 admin/maintenance-menu.php:520
+#: admin/maintenance-menu.php:530 admin/maintenance-menu.php:540
+#: admin/maintenance-menu.php:550 admin/maintenance-menu.php:560
+#: admin/maintenance-menu.php:570 admin/maintenance-menu.php:580
+#: admin/maintenance-menu.php:590
+msgid "Buy Now"
+msgstr ""
+
+#: admin/maintenance-menu.php:452
+msgid "Mountain Biking"
+msgstr ""
+
+#: admin/maintenance-menu.php:462
+msgid "SKT Tattoo"
+msgstr ""
+
+#: admin/maintenance-menu.php:472
+msgid "SKT Tailor"
+msgstr ""
+
+#: admin/maintenance-menu.php:482
+msgid "Motorcycle"
+msgstr ""
+
+#: admin/maintenance-menu.php:492
+msgid "School Uniform"
+msgstr ""
+
+#: admin/maintenance-menu.php:502
+msgid "Event Planners Pro"
+msgstr ""
+
+#: admin/maintenance-menu.php:512
+msgid "SKT Swimming Pool"
+msgstr ""
+
+#: admin/maintenance-menu.php:522
+msgid "SKT Aquarium"
+msgstr ""
+
+#: admin/maintenance-menu.php:532
+msgid "Real Estate"
+msgstr ""
+
+#: admin/maintenance-menu.php:542
+msgid "Summer Camp"
+msgstr ""
+
+#: admin/maintenance-menu.php:552
+msgid "Bicycle Shop"
+msgstr ""
+
+#: admin/maintenance-menu.php:562
+msgid "SKT Association"
+msgstr ""
+
+#: admin/maintenance-menu.php:572
+msgid "SKT Municipality"
+msgstr ""
+
+#: admin/maintenance-menu.php:582
+msgid "Flower Shop"
+msgstr ""
+
+#: admin/maintenance-menu.php:592
+msgid "Complete Pro"
+msgstr ""
+
+#: admin/maintenance-menu.php:597
+msgid "View All Themes"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.sktthemes.org/product-category/wordpress-plugins/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Maintenance plugin created to put your website on maintenance mode. It "
+"will give a fully customizable maintenance page."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://sktthemes.org/"
+msgstr ""
